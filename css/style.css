@@ -6,7 +6,7 @@
 .logo {
     width: 23%;
     padding: 1%;
-    text-aling: center;
+    text-align: center;
     
 }
 nav {
@@ -16,7 +16,7 @@ nav {
 
 ul {
     margin-right: 0;
-    width: 100%
+    width: 100%;
 }
 
 .heroimg {
@@ -27,8 +27,9 @@ ul {
 
 .content {
     padding: 25px;
-    width: 500px
+    width: 500px;
     margin: 0 auto;
+    align-content: center;  
 }
 
 footer {
@@ -38,4 +39,14 @@ footer {
 .footer ul {
    display:inline-block;
     vertical-align: top;
+}
+button {
+    background-color: #373738;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    align-content: center;
 }
