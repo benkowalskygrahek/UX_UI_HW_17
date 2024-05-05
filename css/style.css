@@ -35,6 +35,12 @@ ul {
 footer {
     background-color: #373738;
     padding: 25px;
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    
 }   
 .footer ul {
    display:inline-block;
